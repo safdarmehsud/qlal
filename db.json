@@ -1,0 +1,22 @@
+{
+  "products": [
+    { "id": 101, "name": "Laptop", "price": 999.99, "image": "./product1.jpg" },
+    {
+      "id": 102,
+      "name": "Smartphone",
+      "price": 499.99,
+      "image": "./product2.jpg"
+    },
+    {
+      "id": 103,
+      "name": "Headphones",
+      "price": 49.99,
+      "image": "./product3.jpg"
+    }
+  ],
+  "orders": [
+    { "id": 201, "userId": 1, "productId": 101, "quantity": 11 },
+    { "id": 202, "userId": 2, "productId": 102, "quantity": 22 },
+    { "id": 203, "userId": 3, "productId": 103, "quantity": 33 }
+  ]
+}

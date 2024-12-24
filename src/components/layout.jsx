@@ -9,8 +9,8 @@ const SimpleLayout = () => {
         <nav>
           <ul>
             <li>Home</li>
-            <li>About</li>
-            <li>Contact</li>
+            <li>Products</li>
+            <li>Orders</li>
           </ul>
         </nav>
       </header>
